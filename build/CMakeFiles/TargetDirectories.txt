@@ -1,0 +1,3 @@
+/home/hx/study/threadPool/build/CMakeFiles/rebuild_cache.dir
+/home/hx/study/threadPool/build/CMakeFiles/edit_cache.dir
+/home/hx/study/threadPool/build/CMakeFiles/test.dir

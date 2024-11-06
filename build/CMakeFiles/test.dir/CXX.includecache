@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hx/study/threadPool/main.cc
+threadPool.hpp
+/home/hx/study/threadPool/threadPool.hpp
+chrono
+-
+iostream
+-
+
+/home/hx/study/threadPool/threadPool.hpp
+assert.h
+-
+atomic
+-
+condition_variable
+-
+functional
+-
+future
+-
+memory
+-
+mutex
+-
+queue
+-
+thread
+-
+vector
+-
+
